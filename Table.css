@@ -1,0 +1,16 @@
+table,td,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th{
+    background-color: bisque;
+}
+th:hover{
+    background-color: blue;
+}
+td{
+    background-color: aqua;
+}
+td:hover{
+    background-color: beige;
+}

@@ -1,0 +1,40 @@
+.hori{
+   
+    width:100%;
+    background-color: aqua;
+    overflow: auto;
+    border:2px solid black;
+}
+.hori a{
+
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+    color: black;
+    float:left;
+    width: 60px;
+}
+
+.hori a:hover{
+    background-color: aquamarine;
+}
+.menu{
+    margin-top: 50px;
+    width:65px;
+    background-color: aqua;
+    overflow: auto;
+    border:2px solid black;
+}
+.menu a{
+
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+    color: black;
+    float:right;
+    width: 60px;
+}
+
+.menu a:hover{
+    background-color: aquamarine;
+}

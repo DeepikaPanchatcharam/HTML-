@@ -1,0 +1,55 @@
+.first{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    margin-left: 50px;
+    margin-top: 200px;
+    border: 5px solid black;
+    border-radius: 4px;
+}
+.hi{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.second{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    margin-left: 500px;
+    margin-top: -310px;;
+    border: 5px solid black;
+    border-radius: 4px;
+
+}
+
+.hello{
+    padding-left: 100px;
+    padding-top: 50px;
+
+}
+
+.third{ 
+
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    margin-left: 900px;
+    
+    margin-top:-310px;
+    border: 5px solid black;
+    border-radius: 4px;
+
+}
+
+.bye{
+    padding-left: 100px;
+    padding-top: 50px;
+
+}
+
+body{
+    background-image: url(./Images/sample1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}

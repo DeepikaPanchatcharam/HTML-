@@ -1,0 +1,24 @@
+.helo{
+    color: red;
+}
+@media (max-width:768px){
+    .helo{
+        color: aqua;
+        flex-direction: column;
+    }
+}
+ .wrap{
+        color: aqua;
+        padding: 10px;
+        background-color: blue;
+        display: flex;
+        justify-content: space-around;
+    }
+    @media(max-width:768px){
+        .wrap{
+            flex-direction: column;
+            width: 100px;
+            height: 100px;
+        }
+    }
+
